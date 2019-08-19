@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2016s on Annie Sullivan</title>
+    <link>/2016/</link>
+    <description>Recent content in 2016s on Annie Sullivan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/2016/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Knitting Weasley Sweaters</title>
+      <link>/2016/11/weasley-sweaters/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/11/weasley-sweaters/</guid>
+      <description>I’ve been doing a lot of knitting lately, and also a lot of reading Harry Potter to the boys. Logan especially loves it. I finally learned to knit a bottom up sweater, and got some beautiful chunky yarn at Spun, so knitting the boys Weasley sweaters felt like the perfect winter project. I had a lot of fun with it, and will definitely be doing more bottom up sweaters in the future!</description>
+    </item>
+    
+    <item>
+      <title>Halloween 2016: Ninjago!</title>
+      <link>/2016/10/halloween-2016-ninjago/</link>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/halloween-2016-ninjago/</guid>
+      <description>My dad passed away this week. It’s an especially sad time of year because he always made such amazing Halloween costumes for us as kids. He and my mom would work as a team–she did a lot of research, finding sewing patterns and techniques in magazines, and he did a ton of awesome engineering work bringing chicken wire and masking tape and foam and spray paint together into these amazing works of art.</description>
+    </item>
+    
+  </channel>
+</rss>

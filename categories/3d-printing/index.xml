@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3d Printing on Annie Sullivan</title>
+    <link>/categories/3d-printing/</link>
+    <description>Recent content in 3d Printing on Annie Sullivan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Halloween 2017: Sewing Ghost and Bunny Costumes</title>
+      <link>/2017/10/halloween-2017-ghost-and-bunny/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/10/halloween-2017-ghost-and-bunny/</guid>
+      <description>The kids are really excited about their Halloween costumes this year, and they’ve been in deep debate about what they should be. Logan is adamant that Halloween costumes should be scary, and he wants to be a ghost with glowing red eyes. Cole ignored Logan’s passionate arguments for scary costumes and waffled between pumpkin and bunny for several days, finally deciding to be a bunny.
+The bunny was pretty straightforward; I picked up fuzzy bunny fabric at Joann’s and once again used the trusty Running With Scissors woodland animal pattern.</description>
+    </item>
+    
+    <item>
+      <title>3D Printed Metal Christmas Ornaments: Biodh Duil</title>
+      <link>/2012/12/biodh-duil-ornaments/</link>
+      <pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/12/biodh-duil-ornaments/</guid>
+      <description>My uncle Dick passed away this year, and it was a very sad time for our family because he was such an amazing person and we will all miss him so much. For Christmas, I wanted to do something to remember him. He always loved gadgets and new technology, so I decided to design gifts in Tinkercad and have them 3D printed for the family.
+When our family was going through some hard times, Uncle Dick and his daughter Colleen got together and designed a family logo, a tree with a heart and the words “Biodh Duil” (Irish imperative form of the verb “hope”) written below it.</description>
+    </item>
+    
+    <item>
+      <title>First 3D printing project: Ladybug!</title>
+      <link>/2012/03/first-3d-printing-project-ladybug/</link>
+      <pubDate>Sat, 17 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/03/first-3d-printing-project-ladybug/</guid>
+      <description>My friend Kai started this amazing company called Tinkercad–you can design 3D models online and then print them out either using a 3D printing service or with a MakerBot. I wanted to try it out, so I decided to start with a ladybug. Tinkercad is a solid modeling tool, so I used squashed spheres to make the ladybug–a little one for the head, a bigger one for the body, and a bigger one split in half for the wings.</description>
+    </item>
+    
+  </channel>
+</rss>

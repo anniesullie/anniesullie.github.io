@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knitting on Annie Sullivan</title>
+    <link>/categories/knitting/</link>
+    <description>Recent content in Knitting on Annie Sullivan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/knitting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Knitting Weasley Sweaters</title>
+      <link>/2016/11/weasley-sweaters/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/11/weasley-sweaters/</guid>
+      <description>I’ve been doing a lot of knitting lately, and also a lot of reading Harry Potter to the boys. Logan especially loves it. I finally learned to knit a bottom up sweater, and got some beautiful chunky yarn at Spun, so knitting the boys Weasley sweaters felt like the perfect winter project. I had a lot of fun with it, and will definitely be doing more bottom up sweaters in the future!</description>
+    </item>
+    
+    <item>
+      <title>Knitting a Red Wings Hockey Jersey</title>
+      <link>/2012/09/knitting-a-red-wings-hockey-jersey/</link>
+      <pubDate>Fri, 14 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/09/knitting-a-red-wings-hockey-jersey/</guid>
+      <description>My grandmother taught me to knit when I was 8 or 9 years old, and I’ve been doing knitting projects on and off ever since. I switch back and forth between making things from patterns and designing them myself. I don’t really know what I’m doing; I make things up as I go and look up techniques in my trusty copy of Stitch ‘n Bitch if I get lost. Several years ago, I made my husband Doug a sweater, but he doesn’t wear it much because it needs to be hand-washed.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metal Etching on Annie Sullivan</title>
+    <link>/categories/metal-etching/</link>
+    <description>Recent content in Metal Etching on Annie Sullivan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/metal-etching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Metal Etching with the Glowforge</title>
+      <link>/2019/02/metal-etching-with-glowforge/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/metal-etching-with-glowforge/</guid>
+      <description>One thing I&amp;rsquo;d been really excited to try on my Glowforge was etching metal. Of course the Glowforge doesn&amp;rsquo;t etch metal directly, but there are a lot of posts on the Glowforge forums where people had spray painted metal and then etched it. I was really curious if it was easier to do than the laser transferred resists I&amp;rsquo;d been using. So I searched the forums for all the information I could find on methods people were using, and gave it a shot.</description>
+    </item>
+    
+    <item>
+      <title>Etching Photos onto Metal</title>
+      <link>/2017/12/etching-photos-on-metal/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/etching-photos-on-metal/</guid>
+      <description>The big reason I spent all the effort learning to use press n peel paper to etch (instead of cutting vinyl stencils on my cameo) is that I really wanted to be able to get the fine detail needed to etch a photograph onto metal. But it’s not as simple as just laser printing the photo and etching it! There’s a lot of prep work I do on the pictures in Photoshop to get them to look good when etched.</description>
+    </item>
+    
+    <item>
+      <title>Learning to etch metal: Edinburgh etch on copper and brass stamping blanks</title>
+      <link>/2017/12/learning-to-etch-metal/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/learning-to-etch-metal/</guid>
+      <description>When I took the laser cutter class at Maker Works and learned about all the different materials you can etch, I was really interested in learning how to etch metal. But most lasers at makerspaces and such are CO2 lasers, which can’t etch metal. You can use Cermark, but it just makes the metal black where the laser hits.
+  A photo lasered onto a stainless steel dog tag with Cermark.</description>
+    </item>
+    
+  </channel>
+</rss>

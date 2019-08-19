@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baking on Annie Sullivan</title>
+    <link>/categories/baking/</link>
+    <description>Recent content in Baking on Annie Sullivan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/baking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Baking Gingerbread Houses!</title>
+      <link>/2017/12/gingerbread-houses/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/gingerbread-houses/</guid>
+      <description>As kids we always made milk carton gingerbread houses, but I’ve always wanted to try making a real one. I found this set of gingerbread house cookie cutters with a recipe book at Cost Plus World Market and decided to give it a shot with the kids and their cousin. It took some planning because we needed to bake the dough ahead of time, but overall it was well worth it–the gingerbread pieces held up and stuck together really well, and the kids loved decorating them so much!</description>
+    </item>
+    
+    <item>
+      <title>Homemade Cake Pops!</title>
+      <link>/2014/04/cake-pops/</link>
+      <pubDate>Fri, 18 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/04/cake-pops/</guid>
+      <description>I got the book Cake Pops a while ago and I’ve been dying to try it out! There are a lot of recipes for spring, so I made some to take to the neighborhood Easter egg hunt. They were really easy to make and they taste great! I’m definitely going to try this again.
+  
+  </description>
+    </item>
+    
+  </channel>
+</rss>

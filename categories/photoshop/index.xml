@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photoshop on Annie Sullivan</title>
+    <link>/categories/photoshop/</link>
+    <description>Recent content in Photoshop on Annie Sullivan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/photoshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unglazed bisque ornaments: a happy accident</title>
+      <link>/2018/12/unglazed-bisque-ornaments-a-happy-accident/</link>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/unglazed-bisque-ornaments-a-happy-accident/</guid>
+      <description>I was really excited about the results I got lasering on porcelain ornaments, so I tried to order a bunch on Amazon Prime. But I didn’t pay close attention to the description and accidentally bought these unfinished bisque ornaments instead. I had been planning to send them back, but I couldn’t stop thinking about what it might look like to try to do a 3d engrave on one. So I picked a test ornament to sacrifice, and tried out a simple gradient with increasing power settings.</description>
+    </item>
+    
+    <item>
+      <title>Etching Photos onto Metal</title>
+      <link>/2017/12/etching-photos-on-metal/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/etching-photos-on-metal/</guid>
+      <description>The big reason I spent all the effort learning to use press n peel paper to etch (instead of cutting vinyl stencils on my cameo) is that I really wanted to be able to get the fine detail needed to etch a photograph onto metal. But it’s not as simple as just laser printing the photo and etching it! There’s a lot of prep work I do on the pictures in Photoshop to get them to look good when etched.</description>
+    </item>
+    
+    <item>
+      <title>Making a Board Book From Photos</title>
+      <link>/2014/06/story-board-book-from-photos/</link>
+      <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/06/story-board-book-from-photos/</guid>
+      <description>I’ve made a couple of books through Pint Size Productions and really liked them. When my two-year-old nephew came to visit, I wanted to take the photos from the visit and make them into a board book so he and my two-year-old son could remember them better.
+And then I had an idea–wouldn’t it be cool to use Photoshop filters to make the book look hand-drawn? So I tried out a bunch of drawing and sketch plugins and settled on Akvis Sketch.</description>
+    </item>
+    
+  </channel>
+</rss>

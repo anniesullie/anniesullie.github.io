@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Learning to etch metal: Edinburgh etch on copper and brass stamping blanks</title>
+<meta name="description" content="DESCRIPTION">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/owl.carousel.css">
+<link rel="stylesheet" href="/css/owl.theme.css">
+
+
+  <link href="/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+
+ 
+
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+
+<link href="/css/custom.css" rel="stylesheet">
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-51820024-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="">Annie Sullivan</a></h1>
+    
+      <p class="sidebar-p">I'm a software engineer by trade, but I love to make things.</p>
+    
+      <p class="sidebar-p">In this blog I document the steps I took to learn how to do new things.</p>
+    
+    <ul class="sidebar-menu">
+      
+    </ul>
+    <p class="social">
+  
+  
+  
+  <a href="https://twitter.com/anniesullie" data-animate-hover="pulse" class="external twitter">
+    <i class="fa fa-twitter"></i>
+  </a>
+  
+  
+  <a href="https://instagram.com/anniesullie" title="" class="external instagram">
+    <i class="fa fa-instagram"></i>
+  </a>
+  
+  
+  
+  <a href="https://linkedin.com/in/anniesullie" data-animate-hover="pulse" class="external">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  
+  
+  
+  
+  
+</p>
+
+
+    <div class="copyright">
+      <p class="credit">
+        
+          &copy;2019 Annie Sullivan
+        
+        | Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
+
+&amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
+
+      </p>
+    </div>
+  </div>
+</div>
+
+              
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="">Annie Sullivan</a></h1>
+</div>
+
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+          <h1>Learning to etch metal: Edinburgh etch on copper and brass stamping blanks</h1>
+          <p class="sidebar-p">December 10, 2017&nbsp;&nbsp;&nbsp;&nbsp;
+          
+            <a class="category" href="/categories/metal-etching">Metal Etching</a>
+          
+          </p>
+          <p>When I took the laser cutter class at <a href="https://www.maker-works.com/">Maker Works</a> and learned about
+all the different materials you can etch, I was really interested in learning how to etch metal. But
+most lasers at makerspaces and such are CO2 lasers, which can’t etch metal. You can
+use <a href="https://www.johnsonplastics.com/engraving/engraving-supplies/cermark">Cermark</a>, but it just
+makes the metal black where the laser hits.</p>
+
+
+
+
+  <figure>
+    <a href="/2017/12/learning-to-etch-metal/images/cermark-etched-photo-on-stainless-steel.jpg">
+      <img
+        srcset="
+          /2017/12/learning-to-etch-metal/images/cermark-etched-photo-on-stainless-steel_hu211a88da50641e7b529abfcc220364ee_225576_320x0_resize_q75_box.jpg 320w,
+          /2017/12/learning-to-etch-metal/images/cermark-etched-photo-on-stainless-steel_hu211a88da50641e7b529abfcc220364ee_225576_600x0_resize_q75_box.jpg 600w,
+          /2017/12/learning-to-etch-metal/images/cermark-etched-photo-on-stainless-steel_hu211a88da50641e7b529abfcc220364ee_225576_1200x0_resize_q75_box.jpg 2x"
+        src="/2017/12/learning-to-etch-metal/images/cermark-etched-photo-on-stainless-steel_hu211a88da50641e7b529abfcc220364ee_225576_600x0_resize_q75_box.jpg" alt=""/>
+    </a>
+    <figcaption><p>A photo lasered onto a stainless steel dog tag with Cermark. It makes a black mark on the surface, but doesn&#39;t actually etch it at all.</p></figcaption>
+  </figure>
+
+
+<p>I really wanted to do something that was etched into the metal. Getting a fiber laser was out of the
+question, so I researched techniques for etching metal, and I learned about chemical etching. The
+basics are this:</p>
+
+<ul>
+<li>You apply a resist to the metal. This should be something the etchant won’t get through. It can be
+sharpie pen, nail polish, vinyl stencils, electrical tape, lots of things. But I really wanted
+high detail etchings, and ones from photos, that I could design on the computer. After some
+digging, I found out about <a href="http://www.techniks.com/">blue press n peel paper</a>. You print out the
+resist onto the paper on a laser printer, and use heat to transfer it to the metal. I used this
+for all my etchings.</li>
+<li>You put the metal in a bath of etchant. Different metals will etch in different solutions; I
+wanted to etch copper, brass, and nickel silver so I used <a href="http://www.nontoxicprint.com/etchcopperandbrass.htm">Edinburgh
+etch</a> which I made from ferric chloride I got
+at <a href="https://armstrongtoolsupply.com/">Armstrong Tool  Supply</a>, water, and citric acid I got at
+Meijer.</li>
+<li>You take out the metal and neutralize the etchant. For Edinburg etch I used sodium carbonate I got
+at Meijer.</li>
+<li>You remove the resist. For all the resists I listed except tape, they come off with acetone.</li>
+</ul>
+
+<p>As far as what metal to etch, I found tons of cool options advertised as stamping blanks. There are
+tons of them on Amazon prime, and a few in the jewelry section of craft stores, although you need to
+be really careful to understand what type of metal they are. For example, putting aluminum in ferric
+chloride will cause a dangerous chemical reaction.</p>
+
+<p>Before getting into photos, I started with some simple designs I made on the computer. A keychain
+for my sister’s cat sitter, and some Harry Potter bookmarks. Here is an example printed out on the
+pnp paper:</p>
+
+
+
+
+  <figure>
+    <a href="/2017/12/learning-to-etch-metal/images/press-n-peel-printed.jpg">
+      <img
+        srcset="
+          /2017/12/learning-to-etch-metal/images/press-n-peel-printed_huff713e3fb10c33cbf3be5329578bc654_99175_320x0_resize_q75_box.jpg 320w,
+          /2017/12/learning-to-etch-metal/images/press-n-peel-printed_huff713e3fb10c33cbf3be5329578bc654_99175_600x0_resize_q75_box.jpg 600w,
+          /2017/12/learning-to-etch-metal/images/press-n-peel-printed_huff713e3fb10c33cbf3be5329578bc654_99175_1200x0_resize_q75_box.jpg 2x"
+        src="/2017/12/learning-to-etch-metal/images/press-n-peel-printed_huff713e3fb10c33cbf3be5329578bc654_99175_600x0_resize_q75_box.jpg" alt=""/>
+    </a>
+    <figcaption><p>A simple design printed onto press n peel paper. The design is mirrored because the paper is applied face down to the metal, and the resist transfers upside down.</p></figcaption>
+  </figure>
+
+
+<p>I found it pretty difficult to transfer them from the paper to the metal; I have a heat press and
+that worked pretty well, but there were still holes where the ink didn’t transfer. The instructions
+recommend heat between 275 and 325 degrees; I did a test at each temperature to find the one that
+worked best for me (about 300 degrees, on the left):</p>
+
+
+
+
+  <figure>
+    <a href="/2017/12/learning-to-etch-metal/images/testing-plug-n-peel-heat-press-temperature.jpg">
+      <img
+        srcset="
+          /2017/12/learning-to-etch-metal/images/testing-plug-n-peel-heat-press-temperature_hueefa2c209f2a1bf9865d9b2e9fd575d6_171898_320x0_resize_q75_box.jpg 320w,
+          /2017/12/learning-to-etch-metal/images/testing-plug-n-peel-heat-press-temperature_hueefa2c209f2a1bf9865d9b2e9fd575d6_171898_600x0_resize_q75_box.jpg 600w,
+          /2017/12/learning-to-etch-metal/images/testing-plug-n-peel-heat-press-temperature_hueefa2c209f2a1bf9865d9b2e9fd575d6_171898_1200x0_resize_q75_box.jpg 2x"
+        src="/2017/12/learning-to-etch-metal/images/testing-plug-n-peel-heat-press-temperature_hueefa2c209f2a1bf9865d9b2e9fd575d6_171898_600x0_resize_q75_box.jpg" alt=""/>
+    </a>
+    <figcaption><p>Several copper bracelet blanks with resist from pnp paper applied at various temperatures.</p></figcaption>
+  </figure>
+
+
+<p>The good thing is that the fine details mostly come through, and most of the gaps are in big dark
+areas, which means that I can just color them in with a sharpie, which is what I did. Then I put
+them in a bath of etchant, waited, neutralized, and took off the resist with acetone.</p>
+
+
+
+
+  <figure>
+    <a href="/2017/12/learning-to-etch-metal/images/etched-brass-cat-keychain.jpg">
+      <img
+        srcset="
+          /2017/12/learning-to-etch-metal/images/etched-brass-cat-keychain_hu4c990a59dc4062ae3bcc01ddc228fd45_76783_320x0_resize_q75_box.jpg 320w,
+          /2017/12/learning-to-etch-metal/images/etched-brass-cat-keychain_hu4c990a59dc4062ae3bcc01ddc228fd45_76783_600x0_resize_q75_box.jpg 600w,
+          /2017/12/learning-to-etch-metal/images/etched-brass-cat-keychain_hu4c990a59dc4062ae3bcc01ddc228fd45_76783_1200x0_resize_q75_box.jpg 2x"
+        src="/2017/12/learning-to-etch-metal/images/etched-brass-cat-keychain_hu4c990a59dc4062ae3bcc01ddc228fd45_76783_600x0_resize_q75_box.jpg" alt=""/>
+    </a>
+    <figcaption><p>A brass keychain after etching. You can see some areas where sharpie didn&#39;t fully cover up the holes left in transferring the resist from the pnp paper.</p></figcaption>
+  </figure>
+
+
+
+
+
+  <figure>
+    <a href="/2017/12/learning-to-etch-metal/images/harry-potter-etched-copper-bookmarks.jpg">
+      <img
+        srcset="
+          /2017/12/learning-to-etch-metal/images/harry-potter-etched-copper-bookmarks_hu4e3d7d37e7e69972555a1ffc1da1620b_332357_320x0_resize_q75_box.jpg 320w,
+          /2017/12/learning-to-etch-metal/images/harry-potter-etched-copper-bookmarks_hu4e3d7d37e7e69972555a1ffc1da1620b_332357_600x0_resize_q75_box.jpg 600w,
+          /2017/12/learning-to-etch-metal/images/harry-potter-etched-copper-bookmarks_hu4e3d7d37e7e69972555a1ffc1da1620b_332357_1200x0_resize_q75_box.jpg 2x"
+        src="/2017/12/learning-to-etch-metal/images/harry-potter-etched-copper-bookmarks_hu4e3d7d37e7e69972555a1ffc1da1620b_332357_600x0_resize_q75_box.jpg" alt=""/>
+    </a>
+    <figcaption><p>Copper bracelet blanks after etching.</p></figcaption>
+  </figure>
+
+
+<p>Definitely etched my designs into metal! Cool! But I noticed two things:</p>
+
+<ul>
+<li>The scuffs that come from holes in the resist can look cool on more distressed type designs, but
+they look really bad on clean designs like the cat pawprint keychain.</li>
+<li>The etched in designs can be really hard to see.</li>
+</ul>
+
+<p>Luckily, while I had been shopping around at Armstrong Tool  Supply, I saw some <a href="https://jaxchemical.com/shop/">JAX
+blackeners</a> and thought they looked interesting. I experimented with
+applying them while the resist was still on, which gives a pretty deep contrast (jax black on the
+left two, jax brown on the right two):</p>
+
+
+
+
+  <figure>
+    <a href="/2017/12/learning-to-etch-metal/images/harry-styles-marvel-etched-brass-keychains-patina.jpg">
+      <img
+        srcset="
+          /2017/12/learning-to-etch-metal/images/harry-styles-marvel-etched-brass-keychains-patina_hu7f3e79956b0140dff5d6d97a6f770fa5_52667_320x0_resize_q75_box.jpg 320w,
+          /2017/12/learning-to-etch-metal/images/harry-styles-marvel-etched-brass-keychains-patina_hu7f3e79956b0140dff5d6d97a6f770fa5_52667_600x0_resize_q75_box.jpg 600w,
+          /2017/12/learning-to-etch-metal/images/harry-styles-marvel-etched-brass-keychains-patina_hu7f3e79956b0140dff5d6d97a6f770fa5_52667_1200x0_resize_q75_box.jpg 2x"
+        src="/2017/12/learning-to-etch-metal/images/harry-styles-marvel-etched-brass-keychains-patina_hu7f3e79956b0140dff5d6d97a6f770fa5_52667_600x0_resize_q75_box.jpg" alt=""/>
+    </a>
+    <figcaption><p>Brass keychains etched, with patina applied before removing resist from pnp paper.</p></figcaption>
+  </figure>
+
+
+<p>I also tried applying the patina to the whole thing and then polishing it off the top layer. I found
+this <a href="https://www.amazon.com/Vintaj-Relief-Filing-Buffing-Sanding/dp/B004VYYF2U">Vintaj buff block</a>
+worked well for that, and it created a softer look, but still with more contrast:</p>
+
+
+
+
+  <figure>
+    <a href="/2017/12/learning-to-etch-metal/images/harry-potter-etched-copper-bookmarks-patina-jax.jpg">
+      <img
+        srcset="
+          /2017/12/learning-to-etch-metal/images/harry-potter-etched-copper-bookmarks-patina-jax_huf85ffd18bb532f7928c5cdfe5253ea59_182935_320x0_resize_q75_box.jpg 320w,
+          /2017/12/learning-to-etch-metal/images/harry-potter-etched-copper-bookmarks-patina-jax_huf85ffd18bb532f7928c5cdfe5253ea59_182935_600x0_resize_q75_box.jpg 600w,
+          /2017/12/learning-to-etch-metal/images/harry-potter-etched-copper-bookmarks-patina-jax_huf85ffd18bb532f7928c5cdfe5253ea59_182935_1200x0_resize_q75_box.jpg 2x"
+        src="/2017/12/learning-to-etch-metal/images/harry-potter-etched-copper-bookmarks-patina-jax_huf85ffd18bb532f7928c5cdfe5253ea59_182935_600x0_resize_q75_box.jpg" alt=""/>
+    </a>
+    <figcaption><p>Copper bookmarks etched, cleaned, patina applied and then sanded off the top layer.</p></figcaption>
+  </figure>
+
+
+          
+      </div>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </div>
+  </div>
+  <script src="/js/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery.cookie.js"> </script>
+<script src="/js/ekko-lightbox.js"></script>
+<script src="/js/jquery.scrollTo.min.js"></script>
+<script src="/js/masonry.pkgd.min.js"></script>
+<script src="/js/imagesloaded.pkgd.min.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
+<script src="/js/front.js"></script>
+
+
+
+</body>
+</html>
