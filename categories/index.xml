@@ -6,10 +6,55 @@
     <description>Recent content in Categories on Annie Sullivan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Metal Etching</title>
+      <link>/categories/metal-etching/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/metal-etching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patina</title>
+      <link>/categories/patina/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/patina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foam crafting</title>
+      <link>/categories/foam-crafting/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/foam-crafting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halloween</title>
+      <link>/categories/halloween/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/halloween/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sewing</title>
+      <link>/categories/sewing/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sewing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Laser</title>
@@ -17,15 +62,6 @@
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/laser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Metal Etching</title>
-      <link>/categories/metal-etching/</link>
-      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/metal-etching/</guid>
       <description></description>
     </item>
     
@@ -53,24 +89,6 @@
       <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/cricut/silhouette/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Halloween</title>
-      <link>/categories/halloween/</link>
-      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/halloween/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sewing</title>
-      <link>/categories/sewing/</link>
-      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/sewing/</guid>
       <description></description>
     </item>
     
